@@ -1,0 +1,15 @@
+*{
+
+    background-image: image("car.gif");
+
+}
+
+.a,h1{
+
+    color: chocolate;
+
+    margin-left: 650px;
+
+    margin-top: 300px;
+
+}
